@@ -1,0 +1,26 @@
+Input value of a>1
+Input value of h>0.00001
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.0
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.00001000001393
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚égetRx‚ÆgetDx‚Ì‘Š‘ÎŒë·‚Í5.000006964905879E-4
+
+Input value of a>1
+Input value of h>0.0000000001
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.0
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.000000165480742
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚égetRx‚ÆgetDx‚Ì‘Š‘ÎŒë·‚Í8.274037099909037E-6
+
+
+Input value of a>1
+Input value of h>0.00000000001
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.0
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.000000165480742
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚égetRx‚ÆgetDx‚Ì‘Š‘ÎŒë·‚Í8.274037099909037E-6
+
+Input value of a>1
+Input value of h>0.000000000001
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.0
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.000177801164682
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚égetRx‚ÆgetDx‚Ì‘Š‘ÎŒë·‚Í0.008890058234101161
+
+‚æ‚Á‚ÄAŽÀŒ±Œ‹‰Ê‚æ‚èÅ“K‚È‚ˆ‚Ì’l‚Í‚ˆ0.00000000001‚Å‚ ‚é‚Æ‚¢‚¦‚éB
